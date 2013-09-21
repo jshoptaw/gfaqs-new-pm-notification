@@ -23,7 +23,7 @@ Version 1.1
 -----------
 _Release 2013-09-21_
 
-* Reworked to be compatible with v13 and use the new global notifications.
+* Reworked to use the new global notifications.
 
 Version 1.0.3
 -------------
