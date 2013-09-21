@@ -19,6 +19,12 @@ Use with one of the following browser extensions:
 Release Notes
 =============
 
+Version 1.1
+-----------
+_Release 2013-09-21_
+
+* Reworked to be compatible with v13 and use the new global notifications.
+
 Version 1.0.3
 -------------
 _Released 2013-07-05_
