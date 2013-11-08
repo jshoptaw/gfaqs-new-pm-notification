@@ -1,13 +1,13 @@
 // ==UserScript==
 // @name           GameFAQs New PM Notification
 // @namespace      OTACON120
-// @version        1.1
+// @version        1.1.1
 // @description    Displays a notification when there are unread PMs on GameFAQs
 // @updateURL      http://userscripts.org/scripts/source/116444.meta.js
 // @downloadURL    http://userscripts.org/scripts/source/116444.user.js
 // @website        http://otacon120.com/user-scripts/gamefaqs-related/new-pm-notification/
-// @include        http://*.gamefaqs.com/boards*
-// @match          http://*.gamefaqs.com/boards*
+// @include        http://*.gamefaqs.com/*
+// @match          http://*.gamefaqs.com/*
 // @grant          none
 // ==/UserScript==
 

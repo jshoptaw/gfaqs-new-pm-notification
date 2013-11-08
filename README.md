@@ -19,11 +19,17 @@ Use with one of the following browser extensions:
 Release Notes
 =============
 
+Version 1.1.1
+-------------
+_Release 2013-11-07_
+
+*	Changed `@include`/`@match` rules to have script function across the entire site instead of just the message boards
+
 Version 1.1
 -----------
 _Release 2013-09-21_
 
-* Reworked to use the new global notifications.
+*	Reworked to use the new global notifications
 
 Version 1.0.3
 -------------
